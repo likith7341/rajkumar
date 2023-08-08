@@ -1,0 +1,2 @@
+# rajkumar
+seting up git
